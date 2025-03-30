@@ -1,0 +1,96 @@
+Solarrafe
+Fire
+A fiery and majestic giraffe that harness the power of the sun.
+30
+
+Firepupp
+Fire
+A loyal, flame-breathing dog that races through the night with fiery speed.
+29
+
+Hydrake
+Water
+A sleek, serpentine creature that can summon powerful waves and whip through currents with ease.
+22
+
+Meowguro
+Water
+A playful, aquatic catfish with feline-like agility in the water.
+20
+
+Grawl
+Grass
+A wise and stealthy owl, covered in leaves and vines, blending into nature.
+23
+
+Barkbear
+Grass
+A sturdy bear with a bark-like skin, nearly indestructible in nature’s wilds.
+24
+
+Terrashark
+Earth
+An earth-dwelling predator with the fierce speed and agility of a shark.
+27
+
+Roarland
+Earth
+A fierce, rock-covered tiger with the ability to cause earth tremors with every roar.
+29
+
+Airsting
+Air
+A graceful, flying stingray that glides through the air with the elegance of the wind.
+19
+
+Zephyram
+Air
+A fast-moving ram that uses the power of the wind to leap great distances.
+5
+
+Zaprat
+Electric
+A rat with fur that crackles with electric energy, using it to stun foes.
+2
+
+Hailhound
+Ice
+A swift, fierce dog that can summon hailstorms, using the frozen pellets as weapons.
+8
+
+Crocodice
+Ice
+A massive crocodile whose scales are covered in a thick layer of ice, allowing it to stalk through frozen waters.
+1
+
+Steelephant
+Metal
+A massive elephant with skin as tough as steel, capable of trampling through anything.
+5
+
+Rustcoon
+Metal
+A clever raccoon with metallic fur that can withstand rust and corrosion, scavenging through abandoned factories.
+10
+
+DerVoltage
+Electric
+She eats all her opponents and converts their energy to electric bolts that kills all enemies.
+77
+
+Geodude
+Earth
+Disabled rock person.
+3
+
+
+Sharpedo
+Fire
+A shark.
+0
+
+Pip
+Fire
+Detective cat that solves world wars.
+0
+

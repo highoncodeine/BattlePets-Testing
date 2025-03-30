@@ -1,0 +1,21 @@
+Player1: Wooper
+Player2: Lebron
+
+P1 Roster vs. P2 Roster
+DerVoltage vs. Solarrafe
+Solarrafe vs. Firepupp
+Terrashark vs. Hydrake
+Hailhound vs. DerVoltage
+Airsting vs. Rustcoon
+Steelephant vs. Grawl
+Firepupp vs. Meowguro
+Roarland vs. Barkbear
+Rustcoon vs. Roarland
+
+Match Results
+D D D 
+1 2 D 
+2 2 2 
+
+Winner: Lebron
+Type of Win: Lucky Win

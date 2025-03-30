@@ -1,0 +1,21 @@
+Player1: TestTube
+Player2: Hadjj
+
+P1 Roster vs. P2 Roster
+Solarrafe vs. Solarrafe
+Firepupp vs. DerVoltage
+Hydrake vs. Firepupp
+Meowguro vs. Hydrake
+Barkbear vs. Meowguro
+Terrashark vs. Grawl
+Grawl vs. Barkbear
+Roarland vs. Terrashark
+Airsting vs. Roarland
+
+Match Results
+D D 1 
+D 1 2 
+D D 2 
+
+Winner: None
+Type of Win: Draw

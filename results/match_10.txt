@@ -1,0 +1,21 @@
+Player1: TestTube
+Player2: Lebron
+
+P1 Roster vs. P2 Roster
+Solarrafe vs. Solarrafe
+Firepupp vs. Firepupp
+Hydrake vs. Hydrake
+Meowguro vs. Meowguro
+Grawl vs. Zaprat
+DerVoltage vs. Zephyram
+Crocodice vs. Airsting
+Barkbear vs. Roarland
+Hailhound vs. Terrashark
+
+Match Results
+D D D 
+D 1 2 
+1 1 D 
+
+Winner: TestTube
+Type of Win: Majority Win
