@@ -2347,7 +2347,7 @@ int main()
 	char fileName[50] = "competdium.txt"; // Default file name for battle pets
 	
 	Player players[MAX_PLAYERS]; // Array to store player data
-	bpet battlePets[20]; // Array to store battle pet data
+	bpet battlePets[30]; // Array to store battle pet data
 
 	// Count the number of battle pets in the file and load them into the array
 	countBattlePets(fileName, &maxPets);
